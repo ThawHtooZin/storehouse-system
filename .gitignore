@@ -1,0 +1,10 @@
+# IDEs and System files
+.DS_Store
+.idea/
+.vscode/
+
+# Application Dependencies (to be ignored once frameworks are installed)
+backend/.env
+backend/vendor/
+frontend/node_modules/
+frontend/dist/
